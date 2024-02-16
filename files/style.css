@@ -253,10 +253,11 @@ padding: 10px;
 margin-left: 100px;
 }
 .container2 {
+margin-block-start: 60px;
 width: 600px;
 max-height: 500px;
 padding: 10px;
-margin-left: 100px;
+margin-left: 350px;
 }
 .heading1 {
 text-align: center;
