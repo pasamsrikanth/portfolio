@@ -99,8 +99,6 @@ body {
 .home-content h4:nth-of-type(2) {
     margin-bottom: 30px;
 }
-.home-sci{
-    margin-left: 80px;
 .home-sci a {
     display: inline-flex;
     justify-content: center;
@@ -638,7 +636,6 @@ margin-bottom: 2rem;
 }*/
 .contact-list {
 margin-bottom: 3rem;
-margin-left:30px;
 }
 .contact-list li {
 margin-bottom: 10px;
